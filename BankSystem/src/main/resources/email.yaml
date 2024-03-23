@@ -1,0 +1,9 @@
+mail.smtp.starttls.enable: true
+mail.smtp.host: smtp.gmail.com
+mail.smtp.user:  
+mail.smtp.password:  
+mail.smtp.passwordUniq:  
+mail.smtp.port: 587
+mail.smtp.auth: true
+mail.smtp.ssl.protocols: TLSv1.2
+mail.smtp.ssl.trust: smtp.gmail.com
