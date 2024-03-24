@@ -40,6 +40,10 @@ The statements are saved in the "`invoice`" folder.
 * Get Invoice
 * Creating a bank
 * Creating an account
+## Project Features
+* Implemented end-to-end logging to a file using AspectJ for service methods, input arguments and service response are logged.
+* Interest is calculated once a month
+* Check and invoice files are generated in PDF format
 ## Tools
 * Java 17
 * JavaDoc
